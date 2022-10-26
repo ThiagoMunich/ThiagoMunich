@@ -4,13 +4,13 @@
 Strong follower of good practices and clean code.</h4>
 
 🎯 Focused to a become a front-end especialist </br>
-🔥 Check out my personal portfolio <a href="https://linktr.ee/thiagomunich" target="blank">here</a>
+🔥 Check out my personal portfolio <a href="https://linktr.ee/thiagomunich" target="_blank">here</a>
 
   
 <h3 align="left">Feel free to connect</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/thiagomunich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagomunich" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiagomunich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagomunich" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Current stack</h3>
