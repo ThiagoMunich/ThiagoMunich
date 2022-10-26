@@ -1,6 +1,6 @@
 <h1 align="left">Thiago Munich</h1>
 
-<h4 align="left">Comprehensive knowledge of web development, agile methodologies, rest API, and cloud services.</br>
+<h4 align="left">Comprehensive knowledge of web development, agile methodologies, and rest API's</br>
 Strong follower of good practices and clean code.</h4>
 
 🎯 Focused to a become a front-end especialist </br>
