@@ -4,7 +4,8 @@
 Strong follower of good practices and clean code.</h4>
 
 🎯 Focused to a become a front-end especialist </br>
-🔥 Check out my personal portfolio [here](https://linktr.ee/thiagomunich)
+🔥 Check out my personal portfolio <a href="https://linktr.ee/thiagomunich" target="blank">here</a>
+
   
 <h3 align="left">Feel free to connect</h3>
 
