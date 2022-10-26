@@ -3,7 +3,7 @@
 <h4 align="left">Comprehensive knowledge of web development, agile methodologies, and rest API's.</br>
 Strong follower of good practices and clean code.</h4>
 
-🎯 Focused to a become a front-end especialist </br>
+🎯 Focused on becoming a front-end specialist </br>
 🔥 Check out my personal portfolio <a href="https://linktr.ee/thiagomunich" target="_blank">here</a>
 
   
