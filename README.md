@@ -20,8 +20,5 @@ I'm a hands-on and results-driven Software Engineer passionate about crafting in
 - - **Attention to Detail:** Focused on clean, maintainable, and scalable code to meet business and user needs, without compromising deadlines.
 - **Curiosity & Growth:** Always seeking innovative solutions and staying updated with the latest technologies.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-thiagomunich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagomunich/)
-
-
-### Connect with Me 🌐
+### Let's connect 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thiagomunich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagomunich/)
