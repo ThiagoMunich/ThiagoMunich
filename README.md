@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Software Engineer
+# Hello Wordl! 👋 
 
 I'm a hands-on and results-driven Software Engineer passionate about crafting innovative and user-focused applications for mobile and web. With expertise in **React Native** and a deep understanding of modern development workflows, I specialize in delivering high-quality solutions, particularly in the **banking** and **real estate** sectors.
 
