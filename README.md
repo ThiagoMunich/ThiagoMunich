@@ -3,7 +3,7 @@
 I'm a hands-on and results-driven Software Engineer passionate about crafting innovative and user-focused applications for mobile and web. With expertise in **React Native** and a deep understanding of modern development workflows, I specialize in delivering high-quality solutions, particularly in the **banking** and **real estate** sectors.
 
 ### What I do 🚀
-- **Full-cycle development:** From concept to production, making architectural decisions, gathering requirements, and ensuring apps meet business goals.
+- **Full-cycle development:** From initial commit to production! I'm able to handle all architectural decisions, gathering requirements, and ensuring apps meet business goals.
 - **Mobile-first solutions:** Expertise in **React Native**, **Expo**, and **EAS CLI** for creating cross-platform apps.
 - **Web development:** Proficiency in **React.js**, **Next.js**, and **TypeScript** for building responsive, scalable, and maintainable applications.
 
