@@ -17,7 +17,7 @@ I’m a Senior Software Engineer who truly enjoy building full-stack application
 
 - **DevOps:** GitHub Actions, CI/CD, Firebase, Azure, Vercel
 
-- **Code Quality:** Clean Architecture, Design Patterns
+- **Code Quality:** Clean Architecture, Design Patterns, SonarQube
 
 ### What Makes Me Different 🎯
 - 5+ years of consecutive remote work experience, staying organized, independent and productive.
