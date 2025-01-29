@@ -1,5 +1,5 @@
 # Hello World! 👋
-I’m a Senior Software Engineer who loves building apps people enjoy using. I specialize in *React Native* and *React*, with experience in industries like *banking* and *real estate*. I’ve taken projects from idea to launch, publishing apps on the App Store and Google Play Store.
+I’m a Senior Software Engineer who enjoys building apps and websites that people find useful and easy to use. At this moment I'm work with **React Native** and **React** to create mobile and web apps, and I’ve also built backends using tools like **Node.js**, **Express** and **Prisma**. I’ve worked on projects in areas like **banking**, **real estate** and **health care**, taking them from the first idea all the way to launching them on production independetly, including the App Store and Google Play Store.
 
 ### What I Do 🚀
 - Build apps from start to finish, ensuring they meet user and business needs.
