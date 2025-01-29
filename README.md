@@ -8,7 +8,7 @@ I have the skills and experience to take a project from scratch all the way to p
 - **Full-cycle development:** From initial commit to production! I'm able to handle all architectural decisions, gathering requirements, and ensuring apps meet business goals.
 - **Mobile-first solutions:** Expertise in **React Native**, **Expo**, and **EAS CLI** for creating cross-platform apps.
 - **Front-end development:** Proficiency in **React.js**, **Next.js**, and **TypeScript** for building responsive, scalable, and maintainable applications.
-- **Back-end development:** Proficiency in **Node.js**, **Express**, and **Prisma** using standardize architecture with middlewares, models, controllers and validations.
+- **Back-end development:** Proficiency in **Node.js**, **Express**, and **Prisma** using standardized architecture with middlewares, models, controllers and validations.
 
 ### Tech stack 🛠️
 - **Languages & Frameworks:** React Native • React.js • Next.js • TypeScript • Express • Prisma
