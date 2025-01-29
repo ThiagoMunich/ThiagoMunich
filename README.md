@@ -10,11 +10,11 @@ I have the skills and experience to take a project from scratch all the way to p
 - **Web development:** Proficiency in **React.js**, **Next.js**, and **TypeScript** for building responsive, scalable, and maintainable applications.
 
 ### Tech stack 🛠️
-- **Languages & Frameworks:** React Native • React.js • Next.js • TypeScript
-- **UI/UX:** TailwindCSS • Reanimated Animations
+- **Languages & Frameworks:** React Native • React.js • Next.js • TypeScript • Express • Prisma
+- **UI/UX:** TailwindCSS • Reanimated Animations • Shadcn • Material-UI
 - **DevOps:** GitHub Actions • CI/CD Pipelines • App Store & Play Store Deployment
 - **Backends & APIs:** REST APIs • GraphQL • WebSocket
-- **Cloud & Tools:** Firebase • Azure • Vercel
+- **Cloud & Tools:** Firebase • Azure • Vercel • AWS
 - **Code Quality:** Clean Architecture • Design Patterns • SonarQube
 
 ### What sets me apart 🎯
