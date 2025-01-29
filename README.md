@@ -27,13 +27,13 @@ I have the skills and experience to take a project from scratch all the way to p
 I’m a Senior Software Engineer who loves building apps people enjoy using. I specialize in *React Native* and *React*, with experience in industries like *banking* and *real estate*. I’ve taken projects from idea to launch, publishing apps on the App Store and Google Play Store.
 
 ### What I Do 🚀
-Build apps from start to finish, ensuring they meet user and business needs.
+- Build apps from start to finish, ensuring they meet user and business needs.
 
-Create cross-platform mobile apps with React Native, Expo, and EAS CLI.
+- Create cross-platform mobile apps with React Native, Expo, and EAS CLI.
 
-Develop responsive web apps using React.js, Next.js, and TypeScript.
+- Develop responsive web apps using React.js, Next.js, and TypeScript.
 
-Work on backends with Node.js, Express, and Prisma.
+- Work on backends with Node.js, Express, and Prisma.
 
 ### Tools I Use 🛠️
 - **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS
