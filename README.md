@@ -11,7 +11,7 @@ I’m a Senior Software Engineer who loves building apps people enjoy using. I s
 - Work on backends with Node.js, Express, and Prisma.
 
 ### Tools I Use 🛠️
-- **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS
+- **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS, Reanimated
 
 - **Backend:** Node.js, Express, Prisma, REST APIs, GraphQL
 
@@ -20,11 +20,11 @@ I’m a Senior Software Engineer who loves building apps people enjoy using. I s
 - **Code Quality:** Clean Architecture, Design Patterns
 
 ### What Makes Me Different 🎯
-- 5+ years of consecutive remote work experience, staying organized, self-managed and productive.
+- 5+ years of consecutive remote work experience, staying organized, independent and productive.
 
-- A focus on clean, maintainable code that delivers results on time.
+- Focused on clean, maintainable code that delivers results on time. No perfectionism excuses to justify delays.
 
-- Always learning and exploring new ways to solve problems.
+- Always learning and exploring new technologies. I'm a problem solver, meaning that I can work with any tool given to me.
 
 ### Let's connect 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thiagomunich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagomunich/)
