@@ -1,5 +1,5 @@
 # Hello World! 👋
-I’m a Senior Software Engineer who truly enjoy building full-stack applications, always respecting the MVP concept to delivery results ASAP but always keeping in mind future improvements. At this moment I'm working with **React Native** and **React** to create mobile and web apps, and I’ve also built backends using tools like **Node.js**, **Express** and **Prisma**. I’ve worked on projects in areas like **banking**, **real estate** and **health care**, taking them from the first idea all the way to launching them on production independetly, including the App Store and Google Play Store.
+I’m a Senior Software Engineer who truly enjoy building full-stack applications, always respecting the MVP concept to delivery results ASAP but always keeping in mind future improvements. At this moment I'm working with **React Native** and **React** to create mobile and web apps, and I’ve also built backends using tools like **Node.js**, **Express** and **Prisma**. I’ve worked on projects in areas like **banking**, **real estate** and **health care**, taking them from the first idea all the way to launching them on production independently, including the App Store and Google Play Store.
 
 ### What I Do 🚀
 - Build apps from start to finish, ensuring they meet user and business needs.
