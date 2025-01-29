@@ -1,6 +1,6 @@
 # Hello Wordl! 👋 
 
-I’m a hands-on and results-driven Software Engineer passionate about crafting innovative and user-focused applications for mobile and web. With expertise in **React Native** and **React** I have a deep understanding of modern development workflows, specialized in delivering high-quality solutions, particularly in the **banking** and **real estate** sectors.
+I’m a hands-on and results-driven Software Engineer passionate about crafting innovative and user-focused applications for mobile and web. With expertise in **React Native** and **React** and **Node.js** for back-end I have a deep understanding of modern development workflows, specialized in delivering high-quality solutions, particularly in the **banking** and **real estate** sectors.
 
 I have the skills and experience to take a project from scratch all the way to publishing on both the **App Store** and **Google Play Store**.
 
