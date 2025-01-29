@@ -11,7 +11,7 @@ I’m a Senior Software Engineer who truly enjoy building full-stack application
 - Work on backends with Node.js, Express, and Prisma.
 
 ### Tools I Use 🛠️
-- **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS, Reanimated
+- **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS, Reanimated, Shadcn
 
 - **Backend:** Node.js, Express, Prisma, REST APIs, GraphQL
 
