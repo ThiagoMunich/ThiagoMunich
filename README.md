@@ -20,7 +20,7 @@ I’m a Senior Software Engineer who loves building apps people enjoy using. I s
 - **Code Quality:** Clean Architecture, Design Patterns
 
 ### What Makes Me Different 🎯
-- 4+ years of remote work experience, staying organized and productive.
+- 5+ years of consecutive remote work experience, staying organized, self-managed and productive.
 
 - A focus on clean, maintainable code that delivers results on time.
 
