@@ -13,7 +13,7 @@ I’m a Senior Software Engineer who truly enjoy building full-stack application
 ### Tools I Use 🛠️
 - **Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS, Reanimated, Shadcn
 
-- **Backend:** Node.js, Express, Prisma, PostgreSQL, MongoDB, Websockets
+- **Backend:** Node.js, Express, Prisma, PostgreSQL, MongoDB, Websockets, GraphQL
 
 - **DevOps:** GitHub Actions, CI/CD, Firebase, Azure, Vercel
 
