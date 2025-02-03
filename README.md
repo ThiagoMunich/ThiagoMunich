@@ -22,7 +22,7 @@ I’m a Senior Software Engineer who truly enjoy building full-stack application
 ### What Makes Me Different 🎯
 - 5+ years of consecutive remote work experience, staying organized, independent and productive.
 
-- Focused on clean, maintainable code that delivers results on time. No perfectionism excuses to justify delays.
+- Focused on clean, maintainable code that delivers results on time. No "I am a perfectionism" excuses to justify delays.
 
 - Always learning and exploring new technologies. I'm a problem solver, meaning that I can work with any tool given to me.
 
